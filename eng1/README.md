@@ -7,6 +7,6 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 TEXTO 1:	O texto aborda três diferenças fundamentais entre programação e engenharia de software: tempo, escala e os compromissos envolvidos. Em um projeto de engenharia de software, os profissionais precisam se preocupar mais com a passagem do tempo e a possibilidade futura de mudanças. Dentro de uma organização que desenvolve software, é crucial dar mais atenção escala e eficiência, tanto para o software produzido quanto para a própria organização. Por fim, como engenheiros de software, somos desafiados a tomar decisões mais complexas com consequências arriscadas, muitas vezes baseadas em estimativas imprecisas de tempo e crescimento.
 
-
+============================================================================================
 
 TEXTO 2:	No contexto do Google, costumamos dizer: “Engenharia de software é programação ao longo do tempo.” A programação é indiscutivelmente uma parte essencial da engenharia de software: afinal, é assim que novos softwares são criados inicialmente. Se aceitarmos essa distinção, fica evidente que talvez seja necessário diferenciar entre tarefas de programação (desenvolvimento) e tarefas relacionadas à engenharia de software (desenvolvimento, modificação, manutenção). A consideração do tempo adiciona uma nova dimensão importante à programação. Cubos não são iguais a quadrados; distância não equivale a velocidade. Engenharia de software vai muito além da simples programação.
