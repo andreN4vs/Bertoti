@@ -24,6 +24,7 @@ No código do Google Colab, há uma parte onde você deve inserir o token do seu
 
 ```python
 API_TOKEN = 'insira-o-token-aqui'
+```
 Substitua `insira-o-token-aqui` pelo token que você recebeu do BotFather.
 
 ## Executando o Código
